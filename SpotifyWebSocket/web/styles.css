@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04/12/2018, 00:37:45
+    Author     : psilva
+*/
+
+
+#art_image{
+    border-radius: 20px;
+}
+
+#song{
+  border-color: green;
+    border-style: dashed;
+    max-width: 394px;
+    max-height: 500px;
+    margin-bottom: 20px;
+}
